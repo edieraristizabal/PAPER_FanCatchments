@@ -1,0 +1,10 @@
+revisar las siguientes cuencas:
+
+Con abanico:
+161, 142, 137, 220, 236, 0-6
+
+Catchments with not fan:
+23, 21, 344
+
+Fan:
+256, 262, 61-64, 67-70, 264 (volcanico), 265
