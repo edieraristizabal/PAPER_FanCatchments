@@ -1,0 +1,8 @@
+# AI and environment folders
+.gemini
+.anthropic
+.antigravity
+.claud
+
+# Large spatial data files (exceed GitHub 100MB limit)
+DATA/AOI_30m_chi_full_adj.*

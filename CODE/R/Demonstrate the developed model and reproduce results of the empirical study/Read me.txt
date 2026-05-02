@@ -1,0 +1,8 @@
+In the fold, the function HSAR.R implements the developed methodology in the paper.
+
+The R script, Demonstrate the developed model and reproduce results of the empirical study.R, demonstrates how to
+use the function HSAR.R to run a MLM with spatial interaction effects model and reproduces the estiamtion results of
+the empirical land price study.
+
+The large sparse matrices W (lower level spatial weights matrix), M (Higher level spatial weights matrix) and 
+Z (random effect design matrix) are saved in W.RData, M.RData and Z.RData.
